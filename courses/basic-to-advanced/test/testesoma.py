@@ -1,5 +1,5 @@
 import unittest
-from src.soma import soma
+from src._001_basic._000_soma.soma import soma
 
 
 class TestSoma(unittest.TestCase):
